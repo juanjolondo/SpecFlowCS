@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaSpecFlow.Specs", "PracticaSpecFlow.Specs\PracticaSpecFlow.Specs.csproj", "{EEB53D1C-ED46-4416-9800-18823E62BB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyCalculadora", "ProCalculadora\ProyCalculadora.csproj", "{81A9F392-E1AE-4EC0-8680-8A3A96E6BD6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB53D1C-ED46-4416-9800-18823E62BB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB53D1C-ED46-4416-9800-18823E62BB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB53D1C-ED46-4416-9800-18823E62BB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB53D1C-ED46-4416-9800-18823E62BB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A9F392-E1AE-4EC0-8680-8A3A96E6BD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A9F392-E1AE-4EC0-8680-8A3A96E6BD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A9F392-E1AE-4EC0-8680-8A3A96E6BD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A9F392-E1AE-4EC0-8680-8A3A96E6BD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B527B76-6359-4105-AF79-3C97776B70DC}
+	EndGlobalSection
+EndGlobal
